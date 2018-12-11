@@ -13,7 +13,7 @@ export const dateformats = {
     'previousMonth': 'Edellinen kuukausi',
     'nextMonth': 'Seuraava kuukausi',
     'months': ['Tammikuu', 'Helmikuu', 'Maaliskuu', 'Huhtikuu', 'Toukokuu', 'Kes&auml;kuu', 'Hein&auml;kuu', 'Elokuu', 'Syyskuu', 'Lokakuu', 'Marraskuu', 'Joulukuu'],
-    'weekdaysShort': ['Su', 'Ma', 'Ti', 'Ke', 'To', 'Pe', 'Su'],
+    'weekdaysShort': ['Su', 'Ma', 'Ti', 'Ke', 'To', 'Pe', 'La'],
     'weekdays': ['Sunnuntai', 'Maanantai', 'Tiistai', 'Keskiviikko', 'Torstai', 'Perjantai', 'Lauantai'],
     'format': 'D.M.YYYY',
     'timeFormat': 'HH:mm',
